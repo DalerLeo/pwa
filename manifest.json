@@ -3,12 +3,21 @@
   "name": "Create React App Progressive Web App",
   "icons": [
     {
+      "src":"https://res.cloudinary.com/atyantik/raw/upload/images/343c0debcd278d9bd106267557d7dbeb.png",
+      "sizes":"512x512"
+    },
+    {
+      "src":"https://res.cloudinary.com/atyantik/raw/upload/images/69f9e8741db023ccce71855042abcd86.png",
+      "sizes":"192x192 144x144"
+    },
+    {
       "src": "favicon.ico",
-      "sizes": "512x512 192x192 64x64 32x32 24x24 16x16",
+      "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
+
   ],
-  "start_url": "./index.html",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#F23",
   "background_color": "#ffffff"
