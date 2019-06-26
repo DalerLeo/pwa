@@ -1,6 +1,6 @@
 {
-  "short_name": "React App PWA",
-  "name": "Create React App Progressive Web App",
+  "short_name": "M.Dex PWA",
+  "name": "M.Dex Progressive Web App",
   "icons": [
     {
       "src":"logo.png",
