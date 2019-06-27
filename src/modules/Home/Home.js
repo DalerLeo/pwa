@@ -45,8 +45,8 @@ const Home = props => {
   return (
     <Container>
       <div>
-      <div>{data && data.name} {loading && 'Loading...'}</div>
-      <Image src={Logo} alt=""/>
+        <div>{data && data.name} {loading && 'Loading...'}</div>
+        <Image src={Logo} alt=""/>
       </div>
     </Container>
   )
