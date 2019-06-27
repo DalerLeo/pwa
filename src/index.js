@@ -6,18 +6,21 @@ import * as serviceWorker from './serviceWorker';
 import toast from 'toasted-notes'
 import 'toasted-notes/src/styles.css'
 
-// . let deferredPrompt;
+let deferredPrompt;
 
 window.addEventListener('beforeinstallprompt', (e) => {
 	console.warn('INSTALLL')
+  toast.notify('Installing')
   // Prevent Chrome 67 and earlier from automatically showing the prompt
-  //e.preventDefault();
+  e.preventDefault();
   // Stash the event so it can be triggered later.
-  //deferredPrompt = e;
+  deferredPrompt = e;
+
 });
 
+
+
 window.addEventListener("load", () => {
-	console.warn('LOADED')
   function handleNetworkChange(event) {
     if (navigator.onLine) {
       toast.notify('Online')
@@ -27,6 +30,8 @@ window.addEventListener("load", () => {
       document.body.classList.add("offline");
     }
   }
+
+
   window.addEventListener("online", handleNetworkChange);
   window.addEventListener("offline", handleNetworkChange);
 });
