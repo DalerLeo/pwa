@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "dalerleo.github.io/pwa/static/css/main.a80c436f.chunk.css",
-    "main.js": "dalerleo.github.io/pwa/static/js/main.3105f975.chunk.js",
-    "main.js.map": "dalerleo.github.io/pwa/static/js/main.3105f975.chunk.js.map",
-    "runtime~main.js": "dalerleo.github.io/pwa/static/js/runtime~main.3c16a0c9.js",
-    "runtime~main.js.map": "dalerleo.github.io/pwa/static/js/runtime~main.3c16a0c9.js.map",
-    "static/css/2.dc646829.chunk.css": "dalerleo.github.io/pwa/static/css/2.dc646829.chunk.css",
-    "static/js/2.2de9f36a.chunk.js": "dalerleo.github.io/pwa/static/js/2.2de9f36a.chunk.js",
-    "static/js/2.2de9f36a.chunk.js.map": "dalerleo.github.io/pwa/static/js/2.2de9f36a.chunk.js.map",
-    "index.html": "dalerleo.github.io/pwa/index.html",
-    "precache-manifest.57b5efb24cfe0fbf17b091ea9b07ee1c.js": "dalerleo.github.io/pwa/precache-manifest.57b5efb24cfe0fbf17b091ea9b07ee1c.js",
-    "service-worker.js": "dalerleo.github.io/pwa/service-worker.js",
-    "static/css/2.dc646829.chunk.css.map": "dalerleo.github.io/pwa/static/css/2.dc646829.chunk.css.map",
-    "static/css/main.a80c436f.chunk.css.map": "dalerleo.github.io/pwa/static/css/main.a80c436f.chunk.css.map",
-    "static/media/logo.png": "dalerleo.github.io/pwa/static/media/logo.73f300bf.png"
+    "main.css": "/pwa/static/css/main.a80c436f.chunk.css",
+    "main.js": "/pwa/static/js/main.5cc20919.chunk.js",
+    "main.js.map": "/pwa/static/js/main.5cc20919.chunk.js.map",
+    "runtime~main.js": "/pwa/static/js/runtime~main.ff6970bd.js",
+    "runtime~main.js.map": "/pwa/static/js/runtime~main.ff6970bd.js.map",
+    "static/css/2.dc646829.chunk.css": "/pwa/static/css/2.dc646829.chunk.css",
+    "static/js/2.9231956f.chunk.js": "/pwa/static/js/2.9231956f.chunk.js",
+    "static/js/2.9231956f.chunk.js.map": "/pwa/static/js/2.9231956f.chunk.js.map",
+    "index.html": "/pwa/index.html",
+    "precache-manifest.3d2c8ccc2bbe5aaf524a7039725b835e.js": "/pwa/precache-manifest.3d2c8ccc2bbe5aaf524a7039725b835e.js",
+    "service-worker.js": "/pwa/service-worker.js",
+    "static/css/2.dc646829.chunk.css.map": "/pwa/static/css/2.dc646829.chunk.css.map",
+    "static/css/main.a80c436f.chunk.css.map": "/pwa/static/css/main.a80c436f.chunk.css.map",
+    "static/media/logo.png": "/pwa/static/media/logo.73f300bf.png"
   }
 }
