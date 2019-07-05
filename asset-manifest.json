@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a80c436f.chunk.css",
-    "main.js": "/static/js/main.d804b69f.chunk.js",
-    "main.js.map": "/static/js/main.d804b69f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.dc646829.chunk.css": "/static/css/2.dc646829.chunk.css",
-    "static/js/2.0f176930.chunk.js": "/static/js/2.0f176930.chunk.js",
-    "static/js/2.0f176930.chunk.js.map": "/static/js/2.0f176930.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2940a98dde97dd9f642dab1ae8b4cf20.js": "/precache-manifest.2940a98dde97dd9f642dab1ae8b4cf20.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.dc646829.chunk.css.map": "/static/css/2.dc646829.chunk.css.map",
-    "static/css/main.a80c436f.chunk.css.map": "/static/css/main.a80c436f.chunk.css.map",
-    "static/media/logo.png": "/static/media/logo.73f300bf.png"
+    "main.css": "dalerleo.github.io/pwa/static/css/main.a80c436f.chunk.css",
+    "main.js": "dalerleo.github.io/pwa/static/js/main.3105f975.chunk.js",
+    "main.js.map": "dalerleo.github.io/pwa/static/js/main.3105f975.chunk.js.map",
+    "runtime~main.js": "dalerleo.github.io/pwa/static/js/runtime~main.3c16a0c9.js",
+    "runtime~main.js.map": "dalerleo.github.io/pwa/static/js/runtime~main.3c16a0c9.js.map",
+    "static/css/2.dc646829.chunk.css": "dalerleo.github.io/pwa/static/css/2.dc646829.chunk.css",
+    "static/js/2.2de9f36a.chunk.js": "dalerleo.github.io/pwa/static/js/2.2de9f36a.chunk.js",
+    "static/js/2.2de9f36a.chunk.js.map": "dalerleo.github.io/pwa/static/js/2.2de9f36a.chunk.js.map",
+    "index.html": "dalerleo.github.io/pwa/index.html",
+    "precache-manifest.57b5efb24cfe0fbf17b091ea9b07ee1c.js": "dalerleo.github.io/pwa/precache-manifest.57b5efb24cfe0fbf17b091ea9b07ee1c.js",
+    "service-worker.js": "dalerleo.github.io/pwa/service-worker.js",
+    "static/css/2.dc646829.chunk.css.map": "dalerleo.github.io/pwa/static/css/2.dc646829.chunk.css.map",
+    "static/css/main.a80c436f.chunk.css.map": "dalerleo.github.io/pwa/static/css/main.a80c436f.chunk.css.map",
+    "static/media/logo.png": "dalerleo.github.io/pwa/static/media/logo.73f300bf.png"
   }
 }
